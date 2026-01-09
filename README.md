@@ -18,6 +18,7 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate&logoColor=59666C)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![Next.js](https://img.shields.io/badge/-Express.js-000?&logo=Next)
 ![Servlet](https://img.shields.io/badge/-Servlet-000?&logo=oracle)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20)
